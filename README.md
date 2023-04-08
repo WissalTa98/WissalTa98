@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/WissalTa98/WissalTa98/blob/274501dc414cbba7ea5401c79b112eb51f951b37/banner.png" alt="Hello world">
+
 <!--
 **WissalTa98/WissalTa98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
