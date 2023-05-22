@@ -8,7 +8,6 @@
 
 ```javascript
 const wissal = {
-  pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java, C_sharp],
   tools: [React, Redux, Django, ASP.Net core, Styled-Components, Bootstrap, SpringBoot],
   architecture: ["microservices", "design system pattern"],
